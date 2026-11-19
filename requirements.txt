@@ -1,0 +1,8 @@
+# Maya Transcribe demo — Hindi / Hinglish transcript writing
+# Install torch first if you want a specific build (CUDA vs CPU), see README.
+torch>=2.5
+transformers>=5.20.2
+accelerate>=1.0
+numpy>=1.26
+gradio>=5.0
+huggingface_hub>=0.30
